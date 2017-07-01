@@ -1,5 +1,5 @@
 
-# Articulate v3
+# Articulate v3.1
 
 A sample application built with [Spring Boot](http://projects.spring.io/spring-boot/) that demonstrates capabilities of Cloud Foundry.
 
